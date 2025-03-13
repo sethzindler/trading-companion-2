@@ -1,0 +1,11 @@
+pandas
+numpy 
+requests 
+yfinance 
+finnhub-python 
+matplotlib 
+prompt_toolkit 
+rich 
+questionary
+TA-Lib
+textblob
